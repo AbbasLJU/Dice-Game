@@ -1,0 +1,50 @@
+body
+{
+    background-color: rgb(46, 171, 244);
+}
+
+h1
+{
+    font-family: "Sacramento",cursive;
+    font-weight: bold;
+    font-size: 10rem;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    text-decoration: underline;
+}
+.header
+{
+    display: flex;
+    justify-content: center;
+}
+
+h2
+{
+    font-family: "Sacramento",cursive;
+    font-weight: bold;
+    font-size: 7rem;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+
+.result
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+h3
+{
+    font-family: "Sacramento",cursive;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
